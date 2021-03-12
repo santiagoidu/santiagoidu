@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador santiagoidu">
 
 <p align="left"> 
-  Hi my name is Marco Tulio, I am <strong>Software Engineer Pl.</strong> and <strong>UI/UX Designer Jr.
+  Hi my name is Marco Tulio, I am <strong>Software Developer Jr</strong> and <strong>UI/UX Designer Jr.
   </strong>I'm studying backend development using Node.js, Nest.js, typescript and graphQL.
 </p>
 
