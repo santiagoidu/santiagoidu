@@ -25,7 +25,7 @@
   <div> 
   <a href="https://www.instagram.com/sr_santiago_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:csantiagomarcotulio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a
-  <a href="https://www.linkedin.com/in/marco-tulio-c-santiago" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/marco-tulio-c-santiago" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
 </div> 
     <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
