@@ -1,4 +1,4 @@
-### ![perfil](https://readme-typing-svg.herokuapp.com/?color=3b81f1&size=24&center=true&vCenter=true&width=450&height=30&lines=Seja+Bem-Vindo+ao+meu+perfil...;Meu+nome+%C3%A9+Marco+Tulio+Santiago...;Fico+feliz+de+ver+voc%C3%AA+aqui!;Vamos%20codar)
+### ![perfil](https://readme-typing-svg.herokuapp.com/?color=0968ff&size=24&center=true&vCenter=true&width=450&height=30&lines=Seja+Bem-Vindo+ao+meu+perfil...;Meu+nome+%C3%A9+Marco+Tulio+Santiago...;Fico+feliz+de+ver+voc%C3%AA+aqui!;Vamos%20codar)
 ## Tools
 
 ### Back-end
